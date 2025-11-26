@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on an Ensemble Model for ETF price movement prediction.
 
-[![Young's GitHub stats pt2](https://github-readme-stats.vercel.app/api?username=youngso-hs)](https://github.com/anuraghazra/github-readme-stats)
+[![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=xynrgys)](https://github.com/anuraghazra/github-readme-stats)
