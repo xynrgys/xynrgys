@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on an Ensemble Model for ETF price movement prediction.
+
+Look at my other GH Accs:
+[Workplace](https://github.com/youngso-hs)
